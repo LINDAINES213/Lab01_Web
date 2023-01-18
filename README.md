@@ -10,13 +10,13 @@ Hello World!
 
 3). ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
 
-- what is life?
+--- what is life?
 
-- DOES THAT QUESTION INTEREST YOU?
+-- DOES THAT QUESTION INTEREST YOU?
 
-- yes
+--- yes
 
-- I UNDERSTAND.
+-- I UNDERSTAND.
 
 4). ¿Cuanto tiempo lleva encendido el server de telehack.com?
 
