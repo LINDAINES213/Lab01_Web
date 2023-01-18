@@ -8,9 +8,15 @@
 
 Hello World!
 
-3). ¿En star wars (ascii) ¿qué caracter se usa para formar el pelo de Leia?
+3). ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
 
-@
+- what is life?
+
+- DOES THAT QUESTION INTEREST YOU?
+
+- yes
+
+- I UNDERSTAND.
 
 4). ¿Cuanto tiempo lleva encendido el server de telehack.com?
 
