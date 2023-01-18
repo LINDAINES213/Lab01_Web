@@ -36,6 +36,10 @@ guidelines for individuals, both users and administrators.  This memo is the pro
   
 America is the greatest of opportunities and the worst of influences. - Estados Unidos es la mayor de las oportunidades y la peor de las influencias.
   
+7). ¿Cúal es la fase de la luna actual?
+  
+![image](https://user-images.githubusercontent.com/77686175/213088160-42f1502c-3e71-423a-a570-1443796fc920.png)
+
 ). Generar un código qr (ascii) para la frase: May the command line live forever
 
 ![2023-01-17](https://user-images.githubusercontent.com/77686175/213055755-ffbdeb9a-5e34-4911-9e40-311915e2e461.png)
