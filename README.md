@@ -20,7 +20,7 @@ Hello World!
 
 4). ¿Cuanto tiempo lleva encendido el server de telehack.com?
 
-12.9 years ago at 2010-Mar-07
+12.9 years, since 2010-Mar-07
 
 5). Copie el titulo, la fecha de publicación y el primer parrafo de dos rfc históricos:
 
