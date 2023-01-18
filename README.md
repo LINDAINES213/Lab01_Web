@@ -16,8 +16,24 @@ Hello World!
 
 22 dias, desde 26-diciembre-2022
 
+5). Copie el titulo, la fecha de publicación y el primer parrafo de dos rfc históricos:
 
+819. The Domain Naming Convention for Internet User Applications (agosto 1982)
 
+For many years, the naming convention "<user>@<host>" has served the ARPANET user community for its mail system, and the substring "<host>" has been used for other 
+applications such as file transfer (FTP) and terminal access (Telnet).  With the advent of network interconnection, this naming convention needs to be generalized to 
+accommodate internetworking.  A decision has recently been reached to replace the simple name field, "<host>", by a composite name field, "<domain>" [2].  This note is 
+an attempt to clarify this generalized naming convention, the Internet Naming Convention, and to explore the implications of its adoption for Internet name service and 
+user applications.
+  
+1855. Netiquette Guidelines (octubre 1995)
+  
+This document provides a minimum set of guidelines for Network Etiquette (Netiquette) which organizations may take and adapt for their own use.  As such, it is 
+deliberately written in a bulleted format to make adaptation easier and to make any particular item easy (or easier) to find.  It also functions as a minimum set of 
+guidelines for individuals, both users and administrators.  This memo is the product of the Responsible Use of the Network (RUN) Working Group of the IETF.
+  
+6). 
+  
 ). Generar un código qr (ascii) para la frase: May the command line live forever
 
 ![2023-01-17](https://user-images.githubusercontent.com/77686175/213055755-ffbdeb9a-5e34-4911-9e40-311915e2e461.png)
