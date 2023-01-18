@@ -34,9 +34,13 @@ guidelines for individuals, both users and administrators.  This memo is the pro
   
 6). ¿Cuál fue el mejor chiste que les contó el sitio?
   
-America is the greatest of opportunities and the worst of influences. - Estados Unidos es la mayor de las oportunidades y la peor de las influencias.
+America is the greatest of opportunities and the worst of influences.
+ 
+7). Coloquen un ejemplo de un fnord
   
-7). ¿Cúal es la fase de la luna actual?
+Jack the Ripper transforms Perry Mason and his book.
+  
+8). ¿Cúal es la fase de la luna actual?
   
 ![image](https://user-images.githubusercontent.com/77686175/213088160-42f1502c-3e71-423a-a570-1443796fc920.png)
 
