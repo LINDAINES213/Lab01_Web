@@ -40,10 +40,18 @@ America is the greatest of opportunities and the worst of influences.
   
 Jack the Ripper transforms Perry Mason and his book.
   
-8). ¿Cúal es la fase de la luna actual?
+8). ¿Donde está ubicado en host bkj386?
+  
+Host bkj386 - Institute of Total Disorganization, Canada
+  
+9). ¿Cómo pide auxilio una vaca paranoica?
+  
+![image](https://user-images.githubusercontent.com/77686175/213090532-0e7d00bf-3dfa-49ec-9364-a9b6e2487afe.png)
+
+10). ¿Cúal es la fase de la luna actual?
   
 ![image](https://user-images.githubusercontent.com/77686175/213088160-42f1502c-3e71-423a-a570-1443796fc920.png)
 
-). Generar un código qr (ascii) para la frase: May the command line live forever
+11). Generar un código qr (ascii) para la frase: May the command line live forever
 
 ![2023-01-17](https://user-images.githubusercontent.com/77686175/213055755-ffbdeb9a-5e34-4911-9e40-311915e2e461.png)
