@@ -32,7 +32,9 @@ This document provides a minimum set of guidelines for Network Etiquette (Netiqu
 deliberately written in a bulleted format to make adaptation easier and to make any particular item easy (or easier) to find.  It also functions as a minimum set of 
 guidelines for individuals, both users and administrators.  This memo is the product of the Responsible Use of the Network (RUN) Working Group of the IETF.
   
-6). 
+6). ¿Cuál fue el mejor chiste que les contó el sitio?
+  
+America is the greatest of opportunities and the worst of influences. - Estados Unidos es la mayor de las oportunidades y la peor de las influencias.
   
 ). Generar un código qr (ascii) para la frase: May the command line live forever
 
